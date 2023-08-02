@@ -1,0 +1,11 @@
+{
+  "name": "vanila-nodejs",
+  "version": "1.0.0",
+  "description": "this is a vanila nodejs curd oprations",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "atif",
+  "license": "ISC"
+}
